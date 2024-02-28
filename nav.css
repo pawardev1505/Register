@@ -1,0 +1,63 @@
+/* #mi{
+    background-color: blue;
+    width: 400px;
+    display: inline-block;
+
+}
+#csk{
+    background-color: yellow;
+    display: inline;
+    width: 400px;
+}
+#rcb{
+    background-color: red;
+    display: block;
+    width: 400px;
+}
+body{
+    /* display: flex;
+} */
+body{
+    margin: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 20px ;   
+}
+h1{
+    margin: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding: 20px;
+    margin-top: 20px;
+}
+#left{
+    display: flex;
+    gap: 20px;
+}
+#right{
+    display: flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    background-color: yellowgreen;
+    padding: 20px;
+    margin-top: 20px;
+}
+#cen{
+    display: flex;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
